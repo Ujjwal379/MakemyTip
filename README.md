@@ -2,7 +2,7 @@
 
 ## *Ujjwal Gupta*
 
-**Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
+**MakemyTip** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
 Time spent: **8** hours spent in total
 
